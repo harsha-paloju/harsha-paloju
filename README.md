@@ -10,23 +10,13 @@
 </p>
 
 <p align="center">
-Building intelligent applications with Artificial Intelligence, Machine Learning and Deep Learning.
+Curious about intelligent systems, Interested in building intelligent systems.
 </p>
 
 ---
 
 ```text
-██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗
-██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗
-███████║███████║██████╔╝███████╗███████║███████║
-██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║██╔══██║
-██║  ██║██║  ██║██║  ██║███████║██║  ██║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-
-harsha@github
-──────────────────────────────────────────────
-
-Role        : AI & Machine Learning Student
+Role        : AI & Machine Learning Enthusiast
 Focus       : Machine Learning • Deep Learning • NLP • Computer Vision
 Learning    : PyTorch • Transformers • LLMs
 Philosophy  : Learn → Build → Improve → Repeat
@@ -63,7 +53,7 @@ Status      : Building AI solutions one commit at a time 🚀
 ## ⚙️ Frameworks & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,vscode,linux,bash,docker&perline=8"/>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,vscode&perline=8"/>
 </p>
 
 ---
