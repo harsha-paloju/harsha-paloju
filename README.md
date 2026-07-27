@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Harsha%20Paloju&fontAlign=50&fontAlignY=40&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Harsha%20Paloju&fontColor=ffffff&fontSize=65&animation=twinkling&color=0:FF512F,100:DD2476"/>
 </p>
 
 <p align="center">
