@@ -39,24 +39,21 @@ Building one commit at a time 🚀
 ## 🤖 AI & Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="48" height="48"/>
 </p>
 
 ## ⚡ Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flask" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" height="48"/>
 </p>
 
 ## 🗄️ Database
@@ -65,14 +62,23 @@ Building one commit at a time 🚀
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+## 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+</p>
+
 ## 📚 Currently Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Transformers-orange?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
+
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 💬 Natural Language Processing
+- 🤖 Transformers
+- 🚀 Large Language Models
 
 # About Me
 
