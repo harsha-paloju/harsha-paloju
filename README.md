@@ -1,6 +1,4 @@
 
-# I'm Harsha Paloju
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Harsha%20Paloju&fontAlign=50&fontAlignY=40&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 </p>
