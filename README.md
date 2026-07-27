@@ -10,7 +10,7 @@
 ---
 
 ```text
-Role        : AI & Machine Learning Enthusiast
+Role        : AI & Machine Learning Student
 Focus       : Machine Learning • Deep Learning • NLP • Computer Vision
 Learning    : PyTorch • Transformers • LLMs
 Philosophy  : Learn → Build → Improve → Repeat
