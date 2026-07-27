@@ -41,7 +41,7 @@ Status      : Building AI solutions one commit at a time 🚀
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/>
-<img src="https://matplotlib.org/_static/images/logo2.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="55" title="Keras"/>
 </p>
 
 ## ⚙️ Frameworks & Tools
@@ -62,13 +62,10 @@ Status      : Building AI solutions one commit at a time 🚀
 
 ## 🐍 GitHub Snake
 
-> Create a GitHub Action and display:
-
-```md
 <p align="center">
-<img src="https://raw.githubusercontent.com/harsha-paloju/harsha-paloju/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/harsha-paloju/harsha-paloju/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
 </p>
-```
+
 
 ---
 
@@ -97,5 +94,5 @@ Status      : Building AI solutions one commit at a time 🚀
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
