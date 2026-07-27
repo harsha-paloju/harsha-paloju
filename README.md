@@ -60,10 +60,10 @@ Status      : Building AI solutions one commit at a time 🚀
 
 ---
 
-## 🐍 GitHub Snake
+## GitHub contributions ✅
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harsha-paloju/harsha-paloju/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
+  <img src="https://raw.githubusercontent.com/harsha-paloju/harsha-paloju/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
 </p>
 
 
