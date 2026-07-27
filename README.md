@@ -1,19 +1,21 @@
-# <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,100:2563eb&text=Harsha%20Paloju&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
+# Hi 👋 I'm Harsha Paloju
 
-# Hi there, I'm Harsha 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Harsha%20Paloju&fontAlign=50&fontAlignY=40&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
+</p>
 
-### AI & Machine Learning Enthusiast • Python Developer • Lifelong Learner
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Student;Python+Developer;Deep+Learning+Explorer;Building+AI+Applications;Always+Learning"/>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+AI-powered+Applications;Exploring+Deep+Learning+and+LLMs;Learning+Something+New+Every+Day;Turning+Ideas+Into+Reality"/>
-
-</div>
+<p align="center">
+Building intelligent applications with Artificial Intelligence, Machine Learning and Deep Learning.
+</p>
 
 ---
 
 ```text
-
 ██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗
 ██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗
 ███████║███████║██████╔╝███████╗███████║███████║
@@ -21,152 +23,116 @@
 ██║  ██║██║  ██║██║  ██║███████║██║  ██║██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 
-
 harsha@github
-──────────────────────────────────────────────────────────────
+──────────────────────────────────────────────
 
-Learn → Build → Improve → Repeat
-
-Building one commit at a time 🚀
-
+Role        : AI & Machine Learning Student
+Focus       : Machine Learning • Deep Learning • NLP • Computer Vision
+Learning    : PyTorch • Transformers • LLMs
+Philosophy  : Learn → Build → Improve → Repeat
+Status      : Building AI solutions one commit at a time 🚀
 ```
-## 💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,mysql" />
+## 🚀 About Me
+
+- 🎓 Computer Science (AI & ML)
+- 🤖 Passionate about Artificial Intelligence
+- 🌱 Exploring Deep Learning, NLP and Computer Vision
+- 💻 Love building practical applications
+- 📖 Learning continuously and sharing knowledge
+
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,mysql&perline=6"/>
 </p>
 
-## 🤖 AI & Machine Learning
+## 🤖 AI / Machine Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/>
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="55"/>
 </p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="48" height="48"/>
+## ⚙️ Frameworks & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,vscode,linux,bash,docker&perline=8"/>
 </p>
 
-## ⚡ Frameworks
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi" />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" height="48"/>
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsha-paloju&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-paloju&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=harsha-paloju&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🛠️ Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha-paloju&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=harsha-paloju&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 🐍 GitHub Snake
+
+> Create a GitHub Action and display:
+
+```md
+<p align="center">
+<img src="https://raw.githubusercontent.com/harsha-paloju/harsha-paloju/output/github-contribution-grid-snake.svg"/>
+</p>
+```
+
+---
 
 ## 📚 Currently Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 💬 Natural Language Processing
-- 🤖 Transformers
-- 🚀 Large Language Models
-
-# About Me
-
-- 🎓 Computer Science student specializing in Artificial Intelligence & Machine Learning
-- 🧠 Passionate about solving real-world problems using AI
-- 🌱 Continuously learning Deep Learning, Computer Vision and NLP
-- 💻 Love building clean, practical and scalable applications
-- 🚀 Always curious about emerging AI technologies
-- 📖 Believe that consistency beats intensity
-
----
-
-# Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode,flask&perline=7"/>
-
-<br>
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsha-paloju&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-paloju&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=harsha-paloju&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha-paloju&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harsha-paloju&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# Development Mindset
-
 ```text
-✔ Keep Learning
-
-✔ Build Consistently
-
-✔ Write Clean Code
-
-✔ Solve Real Problems
-
-✔ Share Knowledge
-
-✔ Never Stop Improving
+Machine Learning      ████████████████████ 100%
+Deep Learning         ████████████░░░░░░░ 60%
+PyTorch               ██████████░░░░░░░░░ 55%
+Computer Vision       ██████░░░░░░░░░░░░░ 30%
+NLP                   █████░░░░░░░░░░░░░░ 25%
+Transformers          ██░░░░░░░░░░░░░░░░░ 10%
+Large Language Models ██░░░░░░░░░░░░░░░░░ 10%
 ```
 
 ---
 
-# Connect With Me
+## 🌐 Connect
 
 <p align="center">
 
 <a href="https://github.com/harsha-paloju">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://linkedin.com/in/harsha-paloju-44388239b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:harshapaloju1420@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
 </a>
 
 </p>
@@ -174,17 +140,9 @@ Building one commit at a time 🚀
 ---
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=harsha-paloju&style=for-the-badge&color=blue)
-
+<img src="https://komarev.com/ghpvc/?username=harsha-paloju&style=for-the-badge&color=0e75b6"/>
 </p>
 
----
-
-<div align="center">
-
-### *"The best way to predict the future is to build it."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:2563eb"/>
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
+</p>
