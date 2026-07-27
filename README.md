@@ -25,40 +25,54 @@
 harsha@github
 ──────────────────────────────────────────────────────────────
 
-OS............... macOS
-Host............. MacBook Air M2
-Kernel........... AI / Machine Learning Student
-Editor........... VS Code
-Shell............ zsh
+Learn → Build → Improve → Repeat
 
-Languages........ Python • C • SQL
-
-Libraries........ NumPy
-................. Pandas
-................. Matplotlib
-................. Scikit-Learn
-................. PyTorch
-
-Frameworks....... Flask
-................. Streamlit
-
-Database......... MySQL
-
-Interests........ Machine Learning
-................. Deep Learning
-................. Computer Vision
-................. Natural Language Processing
-................. Generative AI
-
-Currently........ Learning PyTorch
-................. Deep Learning
-................. Data Structures & Algorithms
-
-Philosophy....... Learn → Build → Improve → Repeat
-
-Status........... Building one commit at a time 🚀
+Building one commit at a time 🚀
 
 ```
+## 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,mysql" />
+</p>
+
+## 🤖 AI & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
+## ⚡ Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+## 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+## 📚 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transformers-orange?style=for-the-badge"/>
+</p>
 
 # About Me
 
