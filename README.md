@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=curious+%26+about+intelligent+systems;interested+and passionate+in developing + Intelligent systems;Always+Learning"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Curious+about+Intelligent+Systems;Passionate+about+Developing+Intelligent+Systems;Always+Learning"/>
 </p>
 
 ---
