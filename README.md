@@ -91,31 +91,7 @@ Building one commit at a time 🚀
 
 <img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode,flask&perline=7"/>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=linux,bash&perline=6"/>
-
-</p>
-
----
-
-# Currently Learning
-
-```text
-Machine Learning        ████████████████████ 100%
-
-Deep Learning           ████████████░░░░░░░ 60%
-
-PyTorch                 ██████████░░░░░░░░░ 55%
-
-Computer Vision         ██████░░░░░░░░░░░░░ 30%
-
-Natural Language Proc.  █████░░░░░░░░░░░░░░ 25%
-
-Transformers            ██░░░░░░░░░░░░░░░░░ 10%
-
-Large Language Models   ██░░░░░░░░░░░░░░░░░ 10%
-```
+<br>
 
 ---
 
