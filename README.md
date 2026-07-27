@@ -1,5 +1,5 @@
 
-# Hi 👋 I'm Harsha Paloju
+# I'm Harsha Paloju
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Harsha%20Paloju&fontAlign=50&fontAlignY=40&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
@@ -35,11 +35,11 @@ Status      : Building AI solutions one commit at a time 🚀
 
 ## 🚀 About Me
 
-- 🎓 Computer Science (AI & ML)
-- 🤖 Passionate about Artificial Intelligence
-- 🌱 Exploring Deep Learning, NLP and Computer Vision
-- 💻 Love building practical applications
-- 📖 Learning continuously and sharing knowledge
+-  Computer Science (AI & ML)
+-  Passionate about Artificial Intelligence
+-  Exploring Deep Learning, NLP and Computer Vision
+-  Love building practical applications
+-  Learning continuously and sharing knowledge
 
 ---
 
@@ -71,24 +71,7 @@ Status      : Building AI solutions one commit at a time 🚀
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsha-paloju&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-paloju&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=harsha-paloju&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha-paloju&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harsha-paloju&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -101,20 +84,6 @@ Status      : Building AI solutions one commit at a time 🚀
 <p align="center">
 <img src="https://raw.githubusercontent.com/harsha-paloju/harsha-paloju/output/github-contribution-grid-snake.svg"/>
 </p>
-```
-
----
-
-## 📚 Currently Learning
-
-```text
-Machine Learning      ████████████████████ 100%
-Deep Learning         ████████████░░░░░░░ 60%
-PyTorch               ██████████░░░░░░░░░ 55%
-Computer Vision       ██████░░░░░░░░░░░░░ 30%
-NLP                   █████░░░░░░░░░░░░░░ 25%
-Transformers          ██░░░░░░░░░░░░░░░░░ 10%
-Large Language Models ██░░░░░░░░░░░░░░░░░ 10%
 ```
 
 ---
